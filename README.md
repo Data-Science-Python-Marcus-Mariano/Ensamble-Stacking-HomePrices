@@ -51,7 +51,7 @@ Tutorial for Extract the maximum power from your models using Stacking Ensembles
 
 ## Notebooks
 
-Machine Learning com Stacking Ensembles Home Prices [here](https://github.com/Data-Science-Python-Marcus-Mariano/Ensamble-Stacking-HomePrices/ HomePrices-Marcus_Mariano.ipynb)
+Machine Learning com Stacking Ensembles Home Prices [here](https://github.com/Data-Science-Python-Marcus-Mariano/Ensamble-Stacking-HomePrices/HomePrices-Marcus_Mariano.ipynb)
 
 ---
 
